@@ -1,0 +1,169 @@
+{
+    "Heritage": {
+        "Serama": {
+            "Description": "A new breed from Malaysia designed for racing. Fast, nimble, and hard to hit. Few available, strong racers."
+        },
+        "Sultan": {
+            "Description": "Spicy Sultans have a Distance Preference for Long races (180/200m) with a stronger Distance Preference Strength. Enduring racers from Ottoman Empire palaces."
+        },
+        "Lakenvelder": {
+            "Description": "Chaotic breed from Europe, true origins unclear. Talented, tenacious, with a wild nature. Bonus: Spicy Lakenvelder's Talent Preference matches Talent type."
+        },
+        "Dorking": {
+            "Description": "Old British breed, sturdy and steadfast, does well on home turf. Bonus: Spicy Dorkings have a stronger Terrain Preference Strength."
+        }
+    },
+    "Stock": {
+        "Description": "A chicken’s stock is a rough guide to what generation the chicken belongs to. As chickens are bred or fused, they lower in stock.There are 6 stocks: Spicy, Robust, Fresh, Crisp, Tender, Bland. Spicy chickens are generally stronger, but not always so. Stock is only one of the factors that will determine a chicken's performance during a race. With smart breeding and fusion, you can create offspring that are stronger than their parents."
+    },
+    "Perfection": {
+        "Description": "Each chicken has a perfection score, from 1% to 100%. A 100% perfect chicken is a top performer of the highest caliber. A 100% perfect chicken will usually beat a similar 99% perfect chicken. But given the right circumstances, the 99% perfect chicken can win, as no chicken is truly perfect."
+    },
+    "Beak": {
+        "Description": "Rare beak accessories: Vampire Teeth (offensive talent buff) and Beak Ring (resistance to offensive talents)."
+    },
+    "Stripes": {
+        "Description": "Stripes provide an edge in races."
+    },
+    "Talents": {
+        "Description": "Unique race abilities of a chicken, ranging from weapons to magic and technology.",
+        "Common Talents": [
+            {
+                "Name": "Anvil",
+                "Frequency": "High",
+                "Type": "Weapon",
+                "Description": "Drop an anvil on competitors."
+            },
+            {
+                "Name": "Blue Rooster",
+                "Frequency": "Medium",
+                "Type": "Magic",
+                "Description": "Boosts energy for 4 seconds."
+            },
+            {
+                "Name": "Chickenapult",
+                "Frequency": "Medium",
+                "Type": "Technology",
+                "Description": "Send messages quickly with a Chickenapult."
+            },
+            {
+                "Name": "CK-47",
+                "Frequency": "High",
+                "Type": "Weapon",
+                "Description": "Fire rounds to slow down competitors."
+            },
+            {
+                "Name": "Coober",
+                "Frequency": "Medium",
+                "Type": "Technology",
+                "Description": "Fast and cheap transportation."
+            },
+            {
+                "Name": "Flight?",
+                "Frequency": "Medium",
+                "Type": "Spirit",
+                "Description": "Sporadic flight ability."
+            },
+            {
+                "Name": "Growth",
+                "Frequency": "Medium",
+                "Type": "Magic",
+                "Description": "Quadruple in size for a speed advantage."
+            },
+            {
+                "Name": "Machete",
+                "Frequency": "High",
+                "Type": "Weapon",
+                "Description": "Wildly wield a machete to decapitate opponents."
+            },
+            {
+                "Name": "Rollerblades",
+                "Frequency": "Low",
+                "Type": "Spirit",
+                "Description": "Gain a burst of speed and glide forward."
+            }
+        ],
+        "Uncommon Talents": [
+            {
+                "Name": "Blue Egg",
+                "Frequency": "High",
+                "Type": "Weapon",
+                "Description": "Seek out a leading chicken and take them down."
+            },
+            {
+                "Name": "Dig",
+                "Frequency": "Medium",
+                "Type": "Spirit",
+                "Description": "Burrow through the ground to sneak up on the lead."
+            },
+            {
+                "Name": "Fan Group",
+                "Frequency": "Medium",
+                "Type": "Spirit",
+                "Description": "Gain speed to escape enthusiastic fans."
+            },
+            {
+                "Name": "Helicopter",
+                "Frequency": "High",
+                "Type": "Weapon",
+                "Description": "Call down a metal bird for airlift and homing missiles."
+            },
+            {
+                "Name": "Jetpack",
+                "Frequency": "Medium",
+                "Type": "Technology",
+                "Description": "Use a high-speed jetpack for acceleration."
+            }
+        ],
+        "Rare Talents": [
+            {
+                "Name": "Cold Snap",
+                "Frequency": "High",
+                "Type": "Magic",
+                "Description": "Freeze nearby chickens in their tracks."
+            },
+            {
+                "Name": "Devolution",
+                "Frequency": "High",
+                "Type": "Magic",
+                "Description": "Revert to a prehistoric form and charge ahead with help from the pack."
+            },
+            {
+                "Name": "Moving Walkway",
+                "Frequency": "Medium",
+                "Type": "Technology",
+                "Description": "Turn the lane into a luxury moving walkway for recovery and speed."
+            }
+        ],
+        "Very Rare Talents": [
+            {
+                "Name": "Black Hole",
+                "Frequency": "Low",
+                "Type": "Magic",
+                "Description": "Unleash a powerful black hole to suck in opponents."
+            },
+            {
+                "Name": "Royal Procession",
+                "Frequency": "Low",
+                "Type": "Spirit",
+                "Description": "Guide your chicken to victory with a golden horse-drawn carriage."
+            }
+        ],
+        "Hidden Talents": [
+            {
+                "Name": "Feather Rain",
+                "Frequency": "Low",
+                "Type": "Weapon",
+                "Trait Required": "Chicken's Color is Plucked",
+                "Description": "Hail storm of feathers rain down to pierce opponents."
+            },
+            {
+                "Name": "Runic Blink",
+                "Frequency": "Low",
+                "Type": "Magic",
+                "Trait Required": "Chicken's Color is Runic",
+                "Description": "Transform into pure energy to surge forward."
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+  "raceCommentaries": [
+    {
+      "time": 8.44335972915431,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "Wok Eye utilizing Flight talent, soaring ahead with lightning speed! Currently in 9th place!"
+        },
+        {
+          "who": "Travis",
+          "msg": "Wok Eye's wings are working wonders, propelling them with incredible speed! Holding steady in 9th position!"
+        }
+      ]
+    },
+    {
+      "time": 12.073359729154308,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "Wok Eye speeding ahead with Flight talent! Impressive start!"
+        },
+        {
+          "who": "Travis",
+          "msg": "That chicken is soaring! Lightning speed from Wok Eye!"
+        }
+      ]
+    },
+    {
+      "time": 26.30187605747694,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "And we're off! Fused Chicken 486 zips ahead with incredible speed!"
+        },
+        {
+          "who": "Travis",
+          "msg": "That Teleport talent giving it the edge! It's in the lead at position 1!"
+        },
+        {
+          "who": "Tom",
+          "msg": "The competition better catch up quick, this chicken is flying!"
+        }
+      ]
+    },
+    {
+      "time": 52.0736107026515,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "Wok Eye is hitting hard from the starting gate, blazing with speed! Travis"
+        }
+      ]
+    },
+    {
+      "time": 66.78207930265518,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "Jupiter Rex, armed with CK-47 talent, is blazing ahead with incredible speed! (60)"
+        },
+        {
+          "who": "Travis",
+          "msg": "Currently holding the 7th position, Jupiter Rex is one to watch out for in this race! (78)"
+        }
+      ]
+    },
+    {
+      "time": 70.77669082569444,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "And Chick Fil-A takes a swing from the gate! Incredible speed, currently in 12th position!"
+        },
+        {
+          "who": "Travis",
+          "msg": "Chick Fil-A must have had some turbo boost in that starting gate, what a fantastic start!"
+        }
+      ]
+    },
+    {
+      "time": 88.53380636671521,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "Oh boy, Fused Chicken 570 took a hit from Jupiter Rex! Their speed is slowing down."
+        },
+        {
+          "who": "Travis",
+          "msg": "And they're now in position 5. That's not looking good for Fused Chicken 570."
+        }
+      ]
+    },
+    {
+      "time": 94.75785892001882,
+      "msgList": [
+        {
+          "who": "Tom",
+          "msg": "And we have Fused Chicken 570 coming in hot from the left, speeding past the competition at position 6!"
+        },
+        {
+          "who": "Travis",
+          "msg": "Wow! This chicken means business, folks. Its speed is off the charts!"
+        }
+      ]
+    }
+  ]
+}
